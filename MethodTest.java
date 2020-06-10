@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Abul kalam azad raju 20183290262 <akazadraju56 at outlook.com>
+ * @author Md Abul kalam azad raju 20183290262 <akazadraju56 at outlook.com>
  */
 public class MethodTest {
 
